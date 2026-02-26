@@ -416,14 +416,13 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 - **Issues:** [GitHub Issues](https://github.com/yourusername/finguard-observability/issues)
 - **Discussions:** [GitHub Discussions](https://github.com/yourusername/finguard-observability/discussions)
-- **Documentation:** [ARCHITECTURE_FINAL.md](ARCHITECTURE_FINAL.md)
+- **Documentation:** [ARCHITECTURE_FINAL.md](ARCHITECTURE.md)
 
 ---
 
 ## 📚 Additional Documentation
 
-- **[ARCHITECTURE_FINAL.md](ARCHITECTURE_FINAL.md)** - Complete system architecture
-- **[REFACTOR_SUMMARY.md](REFACTOR_SUMMARY.md)** - Refactoring details (v1.0 → v2.0)
+- **[ARCHITECTURE_FINAL.md](ARCHITECTURE.md)** - Complete system architecture
 - **[TEST_SUMMARY.md](TEST_SUMMARY.md)** - Testing documentation
 - **[tests/README.md](tests/README.md)** - How to run tests
 
