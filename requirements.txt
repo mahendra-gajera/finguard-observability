@@ -1,0 +1,23 @@
+# Core Dependencies
+streamlit>=1.31.0
+python-dotenv>=1.0.0
+
+# Google Gemini AI
+google-generativeai>=0.3.2
+
+# RAG & Vector Store
+langchain>=0.1.6
+langchain-google-genai>=0.0.6
+chromadb>=0.4.22
+sentence-transformers>=2.3.1
+
+# Observability & Monitoring (optional)
+prometheus-client>=0.19.0
+
+# Data Processing
+pandas>=2.2.0
+numpy>=1.26.3
+
+# Utilities
+pydantic>=2.5.3
+tiktoken>=0.5.2

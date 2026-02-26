@@ -1,0 +1,183 @@
+# FinGuard Payment & Transaction Policies
+
+## Payment Decline Reasons
+
+### Why was my payment declined?
+Your payment may have been declined for several reasons:
+1. Insufficient funds in your account or card
+2. Card expired or not activated
+3. Incorrect card details (CVV, expiry date, or billing address)
+4. Bank security restrictions or fraud prevention
+5. International transaction restrictions
+6. Daily transaction limit exceeded
+7. Technical issues with payment gateway
+
+To resolve: Check your card details, ensure sufficient balance, contact your bank, or try a different payment method.
+
+### Card Security and Verification
+All payments require 3D Secure authentication for transactions above $100. You will receive an OTP from your bank. Transactions may be declined if OTP is not entered within 5 minutes.
+
+## Refund Policy
+
+### How long do refunds take?
+- Wallet refunds: Instant (credited within 5 minutes)
+- Original payment method: 5-7 business days
+- Bank transfers: 3-5 business days
+- International refunds: 7-10 business days
+
+Refunds are processed within 24 hours of approval. However, the time taken for the amount to reflect in your account depends on your bank or payment provider.
+
+### Refund eligibility
+Refunds are available for:
+- Failed transactions where money was debited
+- Duplicate charges
+- Service cancellations within 24 hours
+- Merchant disputes (case-by-case basis)
+
+Refunds are NOT available for:
+- Transactions older than 90 days
+- Completed services or delivered products
+- Promotional offers after usage
+
+### Partial refunds
+For partial service usage, refunds are calculated on a pro-rata basis. Contact customer support with your transaction ID for partial refund requests.
+
+## Foreign Exchange (Forex) Charges
+
+### What are forex charges?
+Forex charges apply when you make transactions in a foreign currency. These include:
+1. Currency conversion fee: 3% of transaction amount
+2. International transaction fee: $2 or 1% (whichever is higher)
+3. Cross-border fee: 2% for transactions outside your country
+
+Example: For a $100 USD transaction from INR account:
+- Base amount: $100
+- Forex markup (3%): $3
+- International fee (1%): $1
+- Total charged: ₹8,632 (assuming 1 USD = 83 INR)
+
+### Zero forex cards
+FinGuard Premium members get zero forex markup on first $500/month international transactions. After that, standard 2% applies instead of 3%.
+
+### Dynamic Currency Conversion (DCC)
+Always choose to pay in local currency (merchant's currency) instead of your home currency. DCC rates are typically 5-8% higher than bank rates.
+
+## Duplicate Charges
+
+### Why was I charged twice?
+Duplicate charges can occur due to:
+1. Network timeout during payment (payment appears failed but actually succeeded)
+2. Multiple payment attempts in quick succession
+3. Technical glitch in payment gateway
+4. Merchant error in processing
+
+### Resolution for duplicate charges
+- One charge will be automatically reversed within 24-48 hours
+- If not auto-reversed, raise a dispute via app/website
+- Provide transaction IDs for both charges
+- Refund processed within 5-7 business days
+
+### Prevention
+Wait at least 30 seconds after payment attempt before retrying. Check transaction history before making another payment.
+
+## Transaction Limits
+
+### Daily transaction limits
+- Standard account: $5,000 per day
+- Premium account: $20,000 per day
+- Business account: $100,000 per day
+
+### Per-transaction limits
+- UPI: $150 per transaction
+- Card: $5,000 per transaction
+- Bank transfer: No limit (subject to daily cap)
+- Wallet: $1,000 per transaction
+
+### How to increase limits
+Contact customer support with:
+- Identity verification documents
+- Income proof (for limits above $50,000/day)
+- Business documents (for business accounts)
+
+Limit increases are processed within 24-48 hours after verification.
+
+## Account Security
+
+### Fraud prevention measures
+FinGuard uses AI-powered fraud detection that:
+- Monitors unusual transaction patterns
+- Blocks suspicious cross-border transactions automatically
+- Requires additional verification for high-value transactions
+- Sends instant alerts for all transactions
+
+### What to do if you suspect fraud
+1. Immediately freeze your account via app (Settings > Security > Freeze Account)
+2. Report unauthorized transactions within 24 hours
+3. Change password and enable 2FA
+4. Contact support for investigation
+
+### Liability for fraudulent transactions
+- Reported within 24 hours: Zero liability
+- Reported within 3 days: Liability up to $50
+- Reported after 7 days: Full liability
+
+## Customer Support Contact
+
+### How to reach us
+- In-app chat: Available 24/7 (fastest response)
+- Email: support@finguard.ai (response within 4 hours)
+- Phone: 1-800-FINGUARD (Mon-Fri 9 AM - 6 PM EST)
+- Twitter: @FinGuardSupport (for urgent issues)
+
+### Response times
+- Critical issues (account frozen, fraud): Within 30 minutes
+- Payment issues: Within 2 hours
+- General queries: Within 24 hours
+- Feature requests: Within 7 days
+
+## Fees and Charges
+
+### Transaction fees
+- Domestic UPI: Free
+- Domestic card: Free
+- International card: 3% + $2
+- Bank transfer (IMPS): ₹5 per transaction
+- Bank transfer (NEFT): Free
+- Bank transfer (RTGS): ₹25 per transaction
+
+### Account maintenance
+- Standard account: Free
+- Premium account: $5/month (waived if 5+ transactions/month)
+- Business account: $20/month
+
+### ATM withdrawal
+- Own network: 5 free per month, then $1 per withdrawal
+- Other network: $2 per withdrawal
+
+## Compliance and Regulatory
+
+### KYC requirements
+All accounts require KYC verification:
+- Government-issued ID (Passport, Driver's License, Aadhar)
+- Address proof (Utility bill, Bank statement)
+- Selfie for identity verification
+
+### Transaction reporting
+Transactions above $10,000 are reported to financial authorities as per regulatory requirements. Large cash deposits may require source of funds documentation.
+
+### Data privacy
+FinGuard is GDPR and CCPA compliant. Your data is encrypted and never sold to third parties. You can request data deletion anytime via Settings > Privacy > Delete My Data.
+
+## Promotions and Cashback
+
+### Cashback terms
+- Cashback credited within 7 days of transaction
+- Minimum transaction value for cashback: $10
+- Cashback cannot be withdrawn, only used for future transactions
+- Cashback expires after 90 days if unused
+
+### Promotional offers
+- Offers valid for limited time only
+- One offer per user per promotion
+- Offers cannot be combined with other discounts
+- Terms and conditions apply (see offer page for details)

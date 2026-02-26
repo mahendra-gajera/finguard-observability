@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  finguard-ai:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: finguard-ai
+    ports:
+      - "8501:8501"
+    environment:
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
+      - APP_NAME=FinGuard AI Support
+      - ENVIRONMENT=production
+    volumes:
+      - ./chroma_db:/app/chroma_db
+      - ./data:/app/data:ro
+    restart: unless-stopped
+    networks:
+      - finguard-network
+
+networks:
+  finguard-network:
+    driver: bridge
+
+volumes:
+  chroma_db:
+    driver: local
