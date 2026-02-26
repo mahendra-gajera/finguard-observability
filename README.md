@@ -74,11 +74,11 @@ FinGuard AI is an **open-source, observable RAG** (Retrieval-Augmented Generatio
     │         │     │               │
     │ • Embed │     │ • Traces      │
     │ • Search│     │ • Quality     │
-    │ • Generate     │ • Metrics     │
+    │ • Generate    │ • Metrics     │
     └─────────┘     └───────────────┘
 ```
 
-**Read detailed architecture:** [ARCHITECTURE_FINAL.md](ARCHITECTURE_FINAL.md)
+**Read detailed architecture:** [ARCHITECTURE_FINAL.md](ARCHITECTURE.md)
 
 ---
 
